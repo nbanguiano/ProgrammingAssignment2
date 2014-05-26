@@ -1,6 +1,6 @@
 ## The functions below enable a special functionality
 ## where complex properties of a matix, such as its inverse in this case,
-## can be "cached", to not have to run complex calculations repetievly.
+## can be "cached", to not have to run complex calculations repetievely.
 ## It is based on Assignment 2's example of Courseras's rprog-003 course.
 
 ## "makeCacheMatrix()" will creates several methods to
